@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Graduation Project</string>
+
+    <string name="title_porsche">السيارة الرياضية التي تحلم بها</string>
+    <string name="title_lamborghini">تأجير السيارات المتميزة</string>
+    <string name="title_classic">ليوم زفافك</string>
+
+    <string name="desc_porsche"> اعثر على السيارة الرياضية المثالية لك</string>
+    <string name="desc_lamborghini"> استأجر سيارة أحلامك مع التوصيل للمنزل</string>
+    <string name="desc_classic"> اعثر على السيارة الكلاسيكية ليوم زفافك</string>
+    <string name="forget_your_password">نسيت كلمة المرور؟</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="you_don_t_have_an_account">ليس لديك حساب؟</string>
+    <string name="sign_up">أنشاء حساب</string>
+    <string name="full_name">الأسم الكامل</string>
+    <string name="email_address">البريد الألكتروني</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="password">كلمة المرور</string>
+    <string name="re_password">أعادة كلمة المرور</string>
+    <string name="signup">أنشاء حساب</string>
+    <string name="skip">تجاهل</string>
+    <string name="send_recovery_email">إرسال بريد إلكتروني للاسترداد</string>
+    <string name="lamborghini">lamborghini</string>
+    <string name="description">description</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="info_android_com">info@android.com</string>
+    <string name="title_activity_progress_button_style">ProgressButtonStyle</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">التالي</string>
+    <string name="previous">سابقا</string>
+    <string name="Date_of_Birth">تاريخ الميلاد</string>
+    <string name="title_activity_progress_button2">ProgressButton2</string>
+
+    <string name="add_card">أظافة بطاقة</string>
+    <string name="card_holder_name">أسم حامل البطاقة</string>
+    <string name="confirmation">تأكيد</string>
+    <string name="thank_you_n_for_reservation">شكرا لك \n على الحجز</string>
+    <string name="your_booking_has_been_confirmed_for">تم تأكيد حجزك لـ</string>
+    <string name="home_page">الصفحة الرئيسية</string>
+    <string name="car_name">Car Name</string>
+    <string name="more">أكثر</string>
+    <string name="pick_up_location">موقع الألتقاط</string>
+    <string name="address">العنوان</string>
+    <string name="return_loctaion">موقع العودة</string>
+    <string name="pick_up_date">تاريخ الألتقاط</string>
+    <string name="return_date">تاريخ العودة</string>
+    <string name="date">التاريخ</string>
+    <string name="additional_driver">أظافة سائق</string>
+    <string name="_10jd_day">10\لليوم د.ا</string>
+    <string name="enter_promo_code">أخل الرمز الترويجي</string>
+    <string name="total">المجموع</string>
+    <string name="make_payment">أجراء عملية الدفع</string>
+    <string name="payment">الدفع</string>
+    <string name="total_price">السعر الأجمالي</string>
+    <string name="jd">د.ا</string>
+    <string name="card_number">رقم البطاقة</string>
+    <string name="expiry_date">تاريخ انتهاء الصلاحية</string>
+    <string name="cvv_code">CVV رمز</string>
+    <string name="confirm">تأكيد</string>
+    <string name="recover_password">أستعادة كلمة مرور</string>
+    <string name="old_password">كلمة المرور القديمة</string>
+    <string name="new_password">كلمة المرور الجديدة</string>
+    <string name="change_password">تغير كلمة المرور</string>
+    <string name="password_reset">إعادة تعيين كلمة المرور</string>
+    <string name="reset_my_password">إعادة تعيين كلمة المرور الخاصة بي</string>
+    <string name="seats">مقاعد</string>
+    <string name="doors">ابواب</string>
+    <string name="bags">حقائب</string>
+    <string name="jd_day">د.ا لليوم</string>
+    <string name="settings">الاعدادات</string>
+    <string name="edit">تعديل</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="language">اللغة</string>
+    <string name="messages">الرسائل</string>
+    <string name="feedback_or_any_other_observation">(تعليقات أو أي ملاحظة أخرى)</string>
+    <string name="enter_text_here">ادخل النص هنا</string>
+    <string name="send">ارسال</string>
+    <string name="my_profile">صفحتي الشخصية</string>
+    <string name="continue_">الاستمرار</string>
+    <string name="rate_us">قيمنا</string>
+    <string name="homepage">الصفحة الرئيسية</string>
+    <string name="profile">الصفحة الشخصية</string>
+    <string name="booking">الحجوزات</string>
+    <string name="setting">الاعدادات</string>
+    <string name="share">مشاركة</string>
+    <string name="logout">تسجيل الخروج</string>
+
+    <string name="latest_bookings">اخر الحجوزات</string>
+    <string name="there_is_no_any_booking_yet">لا يوجد اي حجوزات بعد</string>
+    <string name="pick_up_location_">موقع الألتقاط:</string>
+    <string name="return_location_">موقع العودة:</string>
+    <string name="pick_up_date_">تاريخ الألتقاط:</string>
+    <string name="return_date_">تاريخ العودة:</string>
+    <string name="with_driver_">مع سائق:</string>
+    <string name="add_promo_code">أضف رمز ترويجي</string>
+
+</resources>
